@@ -1,0 +1,5 @@
+﻿streamlit>=1.30.0
+playwright>=1.40.0
+bcrypt>=4.0.0
+deep-translator>=1.11.0
+requests>=2.31.0
